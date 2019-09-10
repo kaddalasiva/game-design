@@ -8,7 +8,7 @@ h1{
 
 body {
   height: 100%;
-  background-image: url("/village.jpg");
+  background-image: url("https://github.com/kaddalasiva/game-design/blob/master/village.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
