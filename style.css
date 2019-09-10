@@ -8,7 +8,7 @@ h1{
 
 body {
   height: 100%;
-  background-image: url("../../village.jpg");
+  background-image: url("../images/village.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
